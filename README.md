@@ -39,7 +39,7 @@ A Budget App for keeping track of expenses that also works in offline mode and w
    
  ## Images
 
-![tests ](https://github.com/ShaneCurtis84/Tech-Blog/blob/main/assets/images/screenshot1.PNG)
+![tests ](https://github.com/ShaneCurtis84/Budget-Tracker/blob/main/assets/images/screenshot1.PNG)
 
 
 
